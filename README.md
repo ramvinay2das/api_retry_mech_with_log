@@ -6,7 +6,6 @@ flask application of basic status code and python req_log code with retry mechan
 
 * in cmd run : pip install -r requirements.txt (make sure you are in same location where your requirements.txt file is present)
 * run python run.py file
-* first run run.py file
 ```python
 python run.py
 ```
